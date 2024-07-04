@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Semestralka2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Semestralka2_jar</output-path>
+    <root id="archive" name="Semestralka2.jar">
+      <element id="module-output" name="Semestralka2" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/shapesGE-2.0.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
